@@ -9,7 +9,7 @@ To enter the virtual environment and install dependencies:
 
 To add new packages:
 
-    pip install <package_name>
+    pip install <package names>
 
 To store newly installed packages:
 
@@ -18,3 +18,7 @@ To store newly installed packages:
 To exit the virtual environment:
 
     deactivate
+
+## Running
+
+    python main.py
