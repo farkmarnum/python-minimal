@@ -4,7 +4,7 @@
 
 After cloning:
 
-    python -m venv .v
+    python3 -m venv .v
 
 To enter the virtual environment and install dependencies:
 
