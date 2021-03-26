@@ -2,6 +2,10 @@
 
 ## Setup
 
+After cloning:
+
+    python -m venv .v
+
 To enter the virtual environment and install dependencies:
 
     source .v/bin/activate
