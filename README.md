@@ -1,4 +1,4 @@
-# Machine learning sandbox
+# Python basic template
 
 ## Setup
 
