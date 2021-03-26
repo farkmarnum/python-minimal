@@ -5,6 +5,7 @@
 After cloning:
 
     python3 -m venv .v
+    pip install --upgrade pip
 
 To enter the virtual environment and install dependencies:
 
